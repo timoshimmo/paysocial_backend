@@ -1,0 +1,5 @@
+Name of remote app:
+paysocial-rmt-app
+
+Link to remote heroku app:
+https://git.heroku.com/paysocial-db.git
